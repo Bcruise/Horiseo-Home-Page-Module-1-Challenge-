@@ -29,8 +29,6 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-https://github.com/Bcruise/Horiseo-Home-Page-Module-1-Challenge-/blob/main/assets/01-html-css-git-challenge-demo.jpg
-
 ## Screenshot
 
 ![alt text](https://github.com/Bcruise/Horiseo-Home-Page-Module-1-Challenge-/blob/main/assets/01-html-css-git-challenge-demo.jpg)
