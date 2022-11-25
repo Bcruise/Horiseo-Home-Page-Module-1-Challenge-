@@ -32,10 +32,6 @@ SO THAT our own site is optimized for search engines
 
 ## Screenshot
 
-<a href="https://github.com/Bcruise/Horiseo-Home-Page-Module-1-Challenge-/blob/main/assets/01-html-css-git-challenge-demo.jpg">
-  <img src="https://github.com/Bcruise/Horiseo-Home-Page-Module-1-Challenge-/blob/main/assets/01-html-css-git-challenge-demo.jpg" />
-</a>
-
 ![alt text](https://github.com/Bcruise/Horiseo-Home-Page-Module-1-Challenge-/blob/main/assets/01-html-css-git-challenge-demo.jpg?raw=true)
 
 ## Link
